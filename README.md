@@ -209,18 +209,6 @@ Enter your Anthropic API key (`sk-ant-...`) in the intro screen.
 
 ---
 
-## The Full Demo Suite
-
-| File | Demo |
-|------|------|
-| `req_factory.html` | **Agentic Requirements Factory** — this file |
-| `cs_engine.html` | **CS Escalation Engine** — 8 agents, $5.7M ARR portfolio |
-| `rev_heb.html` | **Revenue Engine** — 10 agents, HEB visualisation, $1.6M pipeline |
-| `brisbane.html` | **Brisbane City Intelligence** — 8 agents, MapLibre + deck.gl 3D map |
-| `kerala_v2.html` | **Kerala Kitchen** — multi-agent directed market graph |
-
----
-
 ## About
 
 Built by **Saagar Devadiga** — Data Engineer & AI Developer, Brisbane, Australia.
